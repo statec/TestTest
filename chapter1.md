@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Kapitel 1
+description : jdjdjd
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
@@ -12,7 +12,7 @@ type: MultipleChoiceExercise
 lang: r
 xp: 50
 skills: 1
-key: 3e0db2d2d2
+key: 804f8dbcb3
 ```
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
@@ -54,11 +54,11 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 type: NormalExercise
 lang: r
 xp: 100
+type: NormalExercise
+lang: r
+xp: 100
 skills: 1
-key: 7a1e5e6860
-```
-
-In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
+key: f39cd5fc8e
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
